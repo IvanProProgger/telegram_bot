@@ -1,0 +1,7 @@
+.config.py
+/config.py
+__pycache__/
+.database.bak
+.database.dat
+.database.dir
+.idea/
